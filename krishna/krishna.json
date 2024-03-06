@@ -1,0 +1,28 @@
+{
+  "mantras": [
+    {
+      "title": "Krishna Maha Mantra",
+      "sanskrit": "ॐ नमो भगवते वासुदेवाय",
+      "transliteration": "Om Namo Bhagavate Vasudevaya",
+      "translation": "Salutations to the Lord Vasudeva (Krishna), the divine son of Vasudeva."
+    },
+    {
+      "title": "Hare Krishna Maha Mantra",
+      "sanskrit": "हरे कृष्णा हरे कृष्णा कृष्णा कृष्णा हरे हरे, हरे रामा हरे रामा रामा रामा हरे हरे",
+      "transliteration": "Hare Krishna Hare Krishna, Krishna Krishna Hare Hare, Hare Rama Hare Rama, Rama Rama Hare Hare",
+      "translation": "O divine energy of the Lord, O all-attractive Lord, O supreme enjoyer, please engage me in your service."
+    },
+    {
+      "title": "Krishna Gayatri Mantra",
+      "sanskrit": "ॐ देवकीनन्दनाय विद्महे वासुदेवाय धीमहि तन्नो कृष्णः प्रचोदयात्",
+      "transliteration": "Om Devakinandanaya Vidmahe Vasudevaya Dhimahi Tanno Krishna Prachodayat",
+      "translation": "Let us meditate on the son of Devaki (Krishna), may that divine Krishna inspire us."
+    },
+    {
+      "title": "Krishna Sharanam Mantra",
+      "sanskrit": "ॐ श्री कृष्ण शरणम् मम",
+      "transliteration": "Om Shri Krishna Sharanam Mamah",
+      "translation": "O Lord Krishna, I take refuge in you."
+    }
+  ]
+}

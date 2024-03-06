@@ -1,0 +1,34 @@
+{
+  "mantras": [
+    {
+      "title": "Rama Gayatri Mantra",
+      "sanskrit": "ॐ दाशरथाय विद्महे सीता वल्लभाय धीमहि। तन्नो राम प्रचोदयात्॥",
+      "transliteration": "Om Dasharathaya Vidmahe Sita Vallabhaya Dhimahi। Tanno Rama Prachodayat॥",
+      "translation": "Let us meditate on Dasharatha's son, who is dear to Sita. May Rama enlighten us."
+    },
+    {
+      "title": "Rama Moola Mantra",
+      "sanskrit": "ॐ रामाय नमः",
+      "transliteration": "Om Ramaya Namah",
+      "translation": "Om, I bow down to Rama."
+    },
+    {
+      "title": "Rama Ashtakam",
+      "sanskrit": "रामस्तोत्रम्",
+      "transliteration": "Rama Stotram",
+      "translation": "A hymn praising Lord Rama."
+    },
+    {
+      "title": "Rama Dhun",
+      "sanskrit": "श्री राम जय राम जय जय राम",
+      "transliteration": "Shri Ram Jai Ram Jai Jai Ram",
+      "translation": "Chanting the victory of Lord Rama."
+    },
+    {
+      "title": "Rama Raksha Stotram",
+      "sanskrit": "राम रक्षा स्तोत्रम्",
+      "transliteration": "Rama Raksha Stotram",
+      "translation": "A protective hymn for invoking the blessings and protection of Lord Rama."
+    }
+  ]
+}
